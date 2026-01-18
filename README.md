@@ -1,1 +1,1 @@
-# Deep-Reinforcement-Learning-from-Human-Preferences-Paper
+# Deep-Reinforcement-Learning-from-Human-Preferences
